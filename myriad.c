@@ -590,6 +590,7 @@ int main() {
         }
         rtncr();
         rtncg();
+        rtnhp();
         break;
       case 'x':
         cur++;
@@ -598,6 +599,7 @@ int main() {
         }
         rtncr();
         rtncg();
+        rtnhp();
         break;
       case 'q':
         rotg(pieces[cur], 3);
