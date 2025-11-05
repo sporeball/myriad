@@ -23,8 +23,3 @@ there are a few things which myriad omits from the original game:
 even with these omissions, myriad is able to produce 6,144 of Quadrillion's many possible puzzles -- and all of them are guaranteed to have at least one solution.
 
 the ["original"](https://github.com/sporeball/myriad/releases/original) release is the final version submitted to the original event, which was written over roughly two weeks and was not source controlled; any further releases will include bug fixes and improvements to this version.
-
-### donate
-you can support the development of this project and others via Patreon:
-
-[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dsporeball%26type%3Dpledges%26suffix%3D%252Fmonth&style=for-the-badge)](https://patreon.com/sporeball)
